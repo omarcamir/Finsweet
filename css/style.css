@@ -1085,6 +1085,9 @@ margin-right: 13.335px;
   .about .aboutTexts {
     width: 100%;
   }
+  .aboutTexts {
+    margin-bottom: 2rem;
+  }
   .howWork .container{
     flex-direction: column;
     align-items: center;
